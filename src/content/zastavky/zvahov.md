@@ -5,6 +5,9 @@ details:
   request: true
   tracks: 2
   altitude: 255
+  coordinates: 50°2′44,34″ s. š., 14°24′8,64″ v. d.
+  eastcoordinate: 14.4023656
+  northcoordinate: 50.0456628
   picture: zvahov.jpg
   picture_cc: 'Honza Groh, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>'
   picture_url: "https://commons.wikimedia.org/wiki/File:Praha-%C5%BDvahov,_p%C5%99%C3%ADst%C5%99e%C5%A1ek.jpg"

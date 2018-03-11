@@ -5,6 +5,7 @@ details:
   request: false
   tracks: 1
   altitude: 197
+  coordinates: 50°4′4″ s. š., 14°24′19″ v. d.
   picture: knizeci.jpg
   picture_cc: 'ŠJů, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>'
   picture_url: "https://commons.wikimedia.org/wiki/File:Praha-Sm%C3%ADchov,_Na_Kn%C3%AD%C5%BEec%C3%AD,_Regionova.jpg"

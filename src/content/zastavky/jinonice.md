@@ -5,6 +5,9 @@ details:
   request: true
   tracks: 4
   altitude: 290
+  coordinates: 50°4′4″ s. š., 14°24′19″ v. d.
+  northcoordinate: 50.0551467
+  eastcoordinate: 14.3777814
   picture: jinonice.jpg
   picture_cc: 'VitVit, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>'
   picture_url: "https://commons.wikimedia.org/wiki/File:Jinonice_n%C3%A1dra%C5%BE%C3%AD_0.jpg"
